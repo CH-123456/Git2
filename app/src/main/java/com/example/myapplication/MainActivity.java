@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
-/*李奔是个大傻春*/
+/*李奔是个大傻*/
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
